@@ -1,0 +1,14 @@
+@media (max-width: 680px) {
+    .sidebar {
+        display: none;
+    }
+    .navbar {
+        display: none;
+    }
+}
+
+@media (min-width: 681px) {
+    .mobilebar {
+        display:none;
+    }
+}
